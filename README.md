@@ -25,5 +25,10 @@ Saat Bibah mengunjungi IP PROBOLINGGO, yang muncul bukan web utama http://semeru
 
 ## Persiapan Topologi
 
+buat topologi dengan command nano topologi.sh 
 ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul2_Lapres_T20/blob/main/Screenshot%20(406).png)
+
+Lalu login pada tiap uml dengan menggunakan user root password praktikum
+
+
 
