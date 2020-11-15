@@ -23,4 +23,7 @@ Saat Bibah mengunjungi IP PROBOLINGGO, yang muncul bukan web utama http://semeru
 /var/www/penanjakan.semeruyyy.pw/public/images sangat banyak maka semua request gambar yang memiliki substring “semeru” akan diarahkan menuju semeru.jpg.
 
 
+## Persiapan Topologi
+
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul2_Lapres_T20/blob/main/Screenshot%20(406).png)
 
